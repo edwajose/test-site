@@ -1,0 +1,1 @@
+const initSite=()=>{const b=document.getElementById('hamburger-button'),a=document.getElementById('mobile-menu'),c=()=>{a.classList.toggle('hidden'),a.classList.toggle('flex'),b.classList.toggle('toggle-btn')};b.addEventListener('click',c),a.addEventListener('click',c)};document.addEventListener('DOMContentLoaded',initSite)
