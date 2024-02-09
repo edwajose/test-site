@@ -8,4 +8,4 @@ Welcome to my little site! I don't have *much* going on around here, but thanks 
 
 ## Here, have an opossum
 
-![It's an opossum!](/home/edwajose/test-site/test-site/content/images/07a65c91c40d77d51a855141903fc97f5fcf2273.jpg)
+![It's an opossum!](/images/07a65c91c40d77d51a855141903fc97f5fcf2273.jpg)
